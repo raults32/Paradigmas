@@ -1,6 +1,6 @@
 +++
 date = '2025-11-27T17:15:05-08:00'
-draft = true
+draft = false
 title = 'Práctica 1: Elementos básicos de los lenguajes de programación'
 +++
 

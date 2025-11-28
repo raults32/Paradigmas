@@ -1,6 +1,6 @@
 +++
 date = '2025-11-27T17:15:22-08:00'
-draft = true
+draft = false
 title = 'Practica3: Instalación de entorno de desarrollo Haskell y aplicación TODO'
 +++
 
