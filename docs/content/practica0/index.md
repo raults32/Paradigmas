@@ -1,7 +1,7 @@
 +++
 date = '2025-11-27T16:09:45-08:00'
 draft = false
-title = 'Practica0: Manejo de Repositorio'
+title = 'Practica 0: Manejo de Repositorio'
 +++
 
 <!--Comentario-->
